@@ -1,0 +1,7 @@
+# using Detecting the face create the 2 to 3 peoples folders which contains the 100 images each
+# then train the model using train.py which will take around 10 to 15 minutes to load the file , put epochs = 5 which will give right accuracy , if u want more accuracy increase the epochs
+# then it creates the .h5 file which is the model , if you want that , u cant contact me in mail (bhubesh2k19@gmail.com)
+
+
+# pip install tensorflow
+# vgg16
